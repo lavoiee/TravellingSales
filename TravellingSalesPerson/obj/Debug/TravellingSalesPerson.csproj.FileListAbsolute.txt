@@ -1,0 +1,6 @@
+C:\Users\lavoi\Documents\NMC_Spring2017\CIT195\Solutions\CodingActivity_TheTravelingSalesperson.Starter\TravellingSalesPerson\bin\Debug\TravellingSalesPerson.exe.config
+C:\Users\lavoi\Documents\NMC_Spring2017\CIT195\Solutions\CodingActivity_TheTravelingSalesperson.Starter\TravellingSalesPerson\bin\Debug\TravellingSalesPerson.exe
+C:\Users\lavoi\Documents\NMC_Spring2017\CIT195\Solutions\CodingActivity_TheTravelingSalesperson.Starter\TravellingSalesPerson\bin\Debug\TravellingSalesPerson.pdb
+C:\Users\lavoi\Documents\NMC_Spring2017\CIT195\Solutions\CodingActivity_TheTravelingSalesperson.Starter\TravellingSalesPerson\obj\Debug\TravellingSalesPerson.csprojResolveAssemblyReference.cache
+C:\Users\lavoi\Documents\NMC_Spring2017\CIT195\Solutions\CodingActivity_TheTravelingSalesperson.Starter\TravellingSalesPerson\obj\Debug\TravellingSalesPerson.exe
+C:\Users\lavoi\Documents\NMC_Spring2017\CIT195\Solutions\CodingActivity_TheTravelingSalesperson.Starter\TravellingSalesPerson\obj\Debug\TravellingSalesPerson.pdb
